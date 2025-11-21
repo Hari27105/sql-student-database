@@ -168,16 +168,16 @@ GROUP BY department;
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Hariprasad J Kadu**
 - 🎓 Electronics & Computer Engineering (2025)
 - 💼 Aspiring Data Analyst | SQL Developer
 - 📊 Database Design Enthusiast
 
 ## 🔗 Contact
 
-- **LinkedIn**: [Your Profile]
-- **GitHub**: [Your Profile]
-- **Email**: your.email@example.com
+- **LinkedIn**: [Hariprasad Kadu](https://www.linkedin.com/in/hariprasad-kadu-855382314/)
+- **GitHub**: [Hari27105](https://github.com/Hari27105)
+- **Email**: kaduhariprasad@gmail.com
 
 ## 📝 Technical Skills Demonstrated
 
@@ -201,9 +201,3 @@ This project showcases:
 Open source - Available for educational and portfolio purposes
 
 ## 🙏 Acknowledgments
-
-Created as a portfolio project to demonstrate SQL proficiency for fresher data analyst positions.
-
----
-
-**⭐ If you find this helpful, please star the repository!**
